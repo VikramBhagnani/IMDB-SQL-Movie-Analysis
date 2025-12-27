@@ -114,8 +114,8 @@ Export your SQL results to Excel or PDF for documentation.
 ✔ SQL import script
 ✔ SQL query analysis script
 ✔ Exported results (Excel / PDF)
-✔ Insight and summary documentation
-'''
+✔ Insight and summary documentation'''
+
 
 ---
 
