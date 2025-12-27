@@ -116,15 +116,11 @@ Export your SQL results to Excel or PDF for documentation.
 ✔ Exported results (Excel / PDF)
 ✔ Insight and summary documentation
 
-👤 Author
-Vikram Bhagnani
-Data Analyst | SQL & Analytics Specialist
-📍 Ahmedabad, India
+
+## **📞 Contact**
+
+**Vikram Bhagnani**
+Data Analyst | Business Analyst
+📧 bhagnanai.vikram77@gmail.com 
 🔗 GitHub: https://github.com/VikramBhagnani
 🔗 LinkedIn: https://www.linkedin.com/in/vikram-g-bhagnani-61529b22a/
-
-📌 About This Project
-This repository contains a structured analysis of IMDB movie data using SQL queries to extract insights and demonstrate real-world database analytical skills.
-
-yaml
-Copy code
