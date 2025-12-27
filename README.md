@@ -115,8 +115,7 @@ Export your SQL results to Excel or PDF for documentation.
 ✔ SQL query analysis script
 ✔ Exported results (Excel / PDF)
 ✔ Insight and summary documentation
-'''
-
+```
 
 ---
 
