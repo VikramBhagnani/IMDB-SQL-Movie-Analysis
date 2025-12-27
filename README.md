@@ -38,19 +38,7 @@ The goals of this project include:
 
 IMDB-SQL-Movie-Analysis/
 │
-├── data/
-│ ├── imdb_dataset.csv
-│
-├── sql_scripts/
-│ ├── import_data.sql
-│ ├── analysis_queries.sql
-│
-├── outputs/
-│ ├── query_results.xlsx
-│ ├── visual_summary.pdf
-│
-├── documentation/
-│ ├── insights_summary.docx
+├── IMDB_SQL_Project.xlsx/
 │
 └── README.md
 
