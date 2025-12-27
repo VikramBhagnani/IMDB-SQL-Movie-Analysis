@@ -91,7 +91,7 @@ Developed and executed SQL queries to answer questions such as:
 1. **Import the Data**  
    Run `import_data.sql` to create tables and load IMDB dataset.
 
-```sql
+sql
 mysql> SOURCE sql_scripts/import_data.sql;
 Run Analytical Queries
 Open analysis_queries.sql and execute queries to explore insights.
@@ -104,7 +104,7 @@ Export your SQL results to Excel or PDF for documentation.
 ✔ SQL query analysis script
 ✔ Exported results (Excel / PDF)
 ✔ Insight and summary documentation
-```
+
 
 ---
 
