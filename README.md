@@ -37,7 +37,9 @@ The goals of this project include:
 ## 📁 Project Structure
 
 IMDB-SQL-Movie-Analysis/
+
 │
+
 ├── IMDB_SQL_Project.xlsx/
 
 │
