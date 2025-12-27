@@ -39,11 +39,10 @@ The goals of this project include:
 IMDB-SQL-Movie-Analysis/
 │
 ├── IMDB_SQL_Project.xlsx/
-│
-└── README.md
 
-yaml
-Copy code
+│
+
+└── README.md
 
 ---
 
