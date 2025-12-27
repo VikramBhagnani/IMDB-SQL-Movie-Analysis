@@ -116,6 +116,7 @@ Export your SQL results to Excel or PDF for documentation.
 ✔ Exported results (Excel / PDF)
 ✔ Insight and summary documentation
 
+---
 
 ## **📞 Contact**
 
