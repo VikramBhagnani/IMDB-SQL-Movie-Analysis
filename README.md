@@ -72,7 +72,7 @@ Excel (documentation support)
 
 📄 Project File
 
-📥 IMDB_SQL_Project_Portfolio_Version.xlsx
+📥 https://github.com/VikramBhagnani/IMDB-SQL-Movie-Analysis/blob/main/IMDB_SQL_Project_Portfolio_Version.xlsx
 
 Includes:
 
